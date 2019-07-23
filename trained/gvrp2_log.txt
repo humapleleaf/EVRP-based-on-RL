@@ -1,0 +1,26 @@
+the reward of 20c3sU1 is 2125.660
+the reward of 20c3sU2 is 1824.900
+the reward of 20c3sU3 is 1757.217
+the reward of 20c3sU4 is 1658.916
+the reward of 20c3sU5 is 1785.655
+the reward of 20c3sU6 is 2215.645
+the reward of 20c3sU7 is 1953.929
+the reward of 20c3sU8 is 2180.213
+the reward of 20c3sU9 is 2017.211
+the reward of 20c3sU10 is 1352.604
+beam_width: 5, train_size: 50000, epochs: 20, actor_lr_rate: 1e-05
+2019-06-20 09:42:19
+
+the reward of 20c3sU1 is 2174.677
+the reward of 20c3sU2 is 1748.868
+the reward of 20c3sU3 is 2111.752
+the reward of 20c3sU4 is 1741.206
+the reward of 20c3sU5 is 2087.197
+the reward of 20c3sU6 is 1929.163
+the reward of 20c3sU7 is 1916.961
+the reward of 20c3sU8 is 2229.016
+the reward of 20c3sU9 is 2087.104
+the reward of 20c3sU10 is 1364.763
+beam_width: 3, train_size: 200000, epochs: 20, actor_lr_rate: 0.0005
+2019-06-26 09:05:18
+
